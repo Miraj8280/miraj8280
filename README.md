@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miraj Asraf</h1>
-<h3 align="center">Full Stack Development Enthusiast || CP Enthusiast || B.Tech | CSE || JGEC'24</h3>
+<h3 align="center">Full Stack Development Enthusiast || B.Tech | CSE || JGEC'24</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miraj8280&label=Profile%20views&color=0e75b6&style=flat" alt="miraj8280" /> </p>
 
