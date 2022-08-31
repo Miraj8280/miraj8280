@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miraj8280&label=Profile%20views&color=0e75b6&style=flat" alt="miraj8280" /> </p>
 
-- 🔭 I’m currently pursuing my B.Tech(2nd year) in Computer Science and Engineering from **Jalpaiguri Government Engineering College**
+- 🔭 I’m currently pursuing my B.Tech(3nd year) in Computer Science and Engineering from **Jalpaiguri Government Engineering College**
 
 - 🌱 I’m currently learning **DSA, ReactJs, Back-end web development**
 
