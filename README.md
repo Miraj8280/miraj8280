@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Miraj Asraf</h1>
-<h3 align="center">Full Stack Development Enthusiast || B.Tech | CSE || JGEC'24</h3>
+<h3 align="center">Full Stack MERN Developer || B.Tech | CSE || JGEC'24</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miraj8280&label=Profile%20views&color=0e75b6&style=flat" alt="miraj8280" /> </p>
 
 - 🔭 I’m currently pursuing my B.Tech(3nd year) in Computer Science and Engineering at **Jalpaiguri Government Engineering College**
 
-- 🌱 I’m currently learning **DSA, ReactJs, Back-end web development**
-
-- 👨‍💻 All of my projects are available at [https://miraj8280.github.io/portfolio.github.io/miraj.html](https://miraj8280.github.io/portfolio.github.io/miraj.html)
-
-- 💬 Ask me about **Problem solving**
+- 🌱 I’m currently learning **DSA, MERN**
 
 - 📫 How to reach me **mirajasraf786@gmail.com**
 
