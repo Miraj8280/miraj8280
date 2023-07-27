@@ -6,7 +6,7 @@ A Full Stack MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="440"></p>
 
 - 👨‍💻 Full Stack MERN Developer
-- 🎓 Currently, I am pursuing B.Tech in Computer Science & Engineering (Batch: 2024) at Jalpaiguri Government Engineering College.
+- 🎓 Currently, pursuing B.Tech in Computer Science & Engineering (Batch: 2024) at Jalpaiguri Government Engineering College.
 - 💚 Love to solve DSA problems on LeetCode, GFG, CodeStudio, etc...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/miraj-asraf/) 
 
