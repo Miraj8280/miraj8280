@@ -1,5 +1,5 @@
 ## Hi there👋, I'm Miraj👦!
-A Full Stack MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> from India <img src="https://media.giphy.com/media/z5i7CdtKqVotB9mz7h/giphy.gif" width="30">
+A Full Stack MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
 
 ![](https://komarev.com/ghpvc/?username=Miraj8280)
 
