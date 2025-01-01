@@ -1,10 +1,10 @@
 ## Hi there👋, I'm Miraj!
-A Full Stack MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
+<!-- A Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> -->
 
 ![](https://komarev.com/ghpvc/?username=Miraj8280)
-
-- 🎓 Currently, pursuing B.Tech in Computer Science & Engineering (Batch: 2024) at Jalpaiguri Government Engineering College.
-- 💚 Love to solve DSA problems on LeetCode, GFG, CodeStudio, etc...
+- 👨‍💻 Systems Engineer at Tata Consultancy Services.
+- 🎓 Pursued B.Tech in Computer Science & Engineering from Jalpaiguri Government Engineering College.
+- 💚 Love to solve Data Structure and Algorithm problems.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/miraj-asraf/)
 ###
 <h3 align="left">Language and tools  🛠️</h3>
